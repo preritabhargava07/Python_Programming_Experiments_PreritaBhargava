@@ -1,0 +1,1 @@
+Observation: Python supports efficient file handling.
